@@ -1,4 +1,4 @@
-# 📝 Pinterest-Inspired To-Do List App
+# 📝 Pinterest-Inspired To-Do List
 
 ## 🗒️ Overview
 This To-Do List web application is a minimal yet elegant task manager inspired by Pinterest's clean and soft UI. It allows users to add, delete, and organize their daily tasks dynamically with real-time DOM updates. Designed with a focus on simplicity and user experience, it's perfect for showcasing front-end skills like JavaScript event handling, DOM manipulation, and responsive design.
